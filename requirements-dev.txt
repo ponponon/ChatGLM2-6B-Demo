@@ -1,3 +1,2 @@
-mycli
 ipython
 autopep8

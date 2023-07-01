@@ -1,22 +1,3 @@
-pymilvus==2.2.7
-click 
-numpy 
-pydantic 
-loguru 
-requests 
-pyyaml 
-python-dotenv 
-python-multipart  # Form data requires "python-multipart" to be installed.
-cryptography
-pymysql 
-peewee 
-fastapi 
-fastapi-pagination
-uvicorn 
-psutil
-dnspython==2.2.1
-filetype
-Pillow
-face_recognition
-minio
-bcrypt
+sentencepiece
+torch
+transformers
